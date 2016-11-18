@@ -9,7 +9,7 @@ How big is your imagination? That's how many flavors of jellybean there are! Pop
  * Key lime pie
  * Watermelon
  
- The following flavors have been universally declared as _gross_:
+The following flavors have been universally declared as _gross_:
  * Licorice
  * Popcorn
  * Pickle
