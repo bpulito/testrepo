@@ -1,6 +1,6 @@
 # Jellybeans are delicious
 
-Jellybeans are one of the most diverse foods known to the modern world. Despite their bean-like shape, a jellybean is surprisingly not a legume or vegetable, but rather a sugar-based candy.
+Jellybeans are one of the most diverse foods known to the modern world. Despite their bean-like shape, a jellybean is surprisingly not a legume or vegetable. Rather, jellybeans are a sugar-based candy.
 
 ## Number of flavors
 
